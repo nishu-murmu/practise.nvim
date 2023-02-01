@@ -1,3 +1,3 @@
 (function()
-    return 6
+    return 5
 end)()
